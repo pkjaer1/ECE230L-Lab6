@@ -17,8 +17,10 @@ In this lab, we created a representation of a light switch, a single bit adder, 
 ## Lab Questions
 
 ### 1 - How might you add more than two bits together?
+You can add more than two bits together by using a full adder. By doing this you can connect multiple full adders together to add bigger binary numbers.
 
 ### 2 - What is the importance of the XOR gate in an adder?
+The XOR gate is important because it gives you the sum of the two bits being added. 
 
 ### 3 - What is the largest number a two bit adder can handle? What happens when you go over?
 The largest number a two bit adder can handle is six. 
